@@ -1,43 +1,19 @@
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  
-} from "react-router-dom";
-
-import Videos from './component/video/Videos';
-import Front from './component/front/Front';
-
-
-
-
+import Videos from "./component/video/Videos";
+import Front from "./component/front/Front";
 
 function App() {
-       
- return (
-    
-  <>
-  
-  <Router>
-
+  return (
+    <>
+      <Router>
         <Routes>
-            
-             
-        <Route path="/" element={<Front />} />
-             <Route path="/video" element={<Videos />} />
-            
-
-
+          <Route path="/" element={<Front />} />
+          <Route path="/video" element={<Videos />} />
         </Routes>
-
-  </Router>
-  
-  </>
-
- )
- 
+      </Router>
+    </>
+  );
 }
-
 
 export default App;

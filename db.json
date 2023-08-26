@@ -5,14 +5,14 @@
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "title": "Big Buck Bunny",
       "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself",
-      "like": false
+      "like": true
     },
     {
       "id": 2,
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
       "title": "Big Buck Bunny",
       "description": "HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV.",
-      "like": false
+      "like": true
     },
     {
       "id": 3,

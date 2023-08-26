@@ -7,6 +7,8 @@ Make sure that, for the deprecation warning, some features may need to be instal
 
 React Docs https://react.dev/
 
+YouTube - https://youtu.be/TcYiBRLAe50
+
 ## Setup
 
 Install the app with npm
@@ -26,5 +28,3 @@ Install the app with npm
 
 ![APP Image](video-listing-react.png)
 
-
-YouTube - https://youtu.be/TcYiBRLAe50

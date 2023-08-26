@@ -1,7 +1,7 @@
 # Video Listing App React
 
-React video listing app. It has been almost covered all the concept of the React. ex: React Component rendering, props, react-router-dom, useState, useEffect, useContext hooks, calling API using fetch so on. Use json-server as filling backend.  
-Make sure that for deprecation warning some feature may need to install after npm install. Ex: npm i json-server
+React video listing app It has almost covered all the concepts of React, e.g., React component rendering, props, react-router-dom, useState, useEffect, useContext hooks, calling API using fetch, and so on. Use json-server as the filling backend.
+Make sure that, for the deprecation warning, some features may need to be installed after the npm install. Ex: npm i json-server
 
 ## Refer
 
